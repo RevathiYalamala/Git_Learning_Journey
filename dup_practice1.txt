@@ -1,0 +1,6 @@
+This is duplicate file created to test staging folder wise
+This file change happening when working from development branch
+adding
+new changes line1
+and line 2
+commiting from dev
