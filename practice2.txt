@@ -1,3 +1,7 @@
 This is second practice file created using cat command greater than symbol to enter data
 Adding extra data by Revathi
+
 testing merge conflict from dev branch
+
+working on merge conflict from testing branch
+
